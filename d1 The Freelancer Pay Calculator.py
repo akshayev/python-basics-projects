@@ -1,0 +1,10 @@
+name= input("enter the name of the freelancer: ");
+rate= float(input("enter the payment for an hour: "));
+hours= float(input("enter the total number of hours worked in this month: "));
+payment= rate*hours;
+tax = payment*0.10;
+total_payment= payment - tax;
+print(f"name of the freelancer: {name}");
+print(f"total payment: {payment}");
+print(f"tax deducted(10%): {tax}");
+print(f"total payment after tax deduction: {total_payment}");
