@@ -25,9 +25,44 @@ A simple calculator that computes freelancer payments with tax deductions.
 
 ---
 
+### Day 2: Bank Loan Validator
+**File:** `d2_The Bank Loan Validator.py`
+
+A loan validation system that checks customer eligibility based on financial rules.
+
+**Features:**
+- Takes customer name, income, credit score, and loan amount as input
+- Validates loan approval (income >= 30000 AND credit score >= 700)
+- Identifies high-risk applicants (income <= 20000 OR credit score <= 600)
+- Calculates processing fees and monthly EMI
+- Generates formatted financial report
+
+**Skills Practiced:**
+- Typecasting (int, float)
+- Arithmetic operations (percentages, division)
+- String manipulation with f-strings and escape characters (\n, \t)
+- Comparison operators (>=, <=, <, >)
+- Boolean logic (and, or operators)
+- Complex conditional rules
+
+---
+
 ## Learning Path
-- ✅ Day 1: Python basics - input/output, calculations
+- ✅ Day 1: Python basics - input/output, calculations, basic arithmetic
+- ✅ Day 2: Data Processing & Logic - typecasting, string formatting, conditional logic
 - 🔄 Ongoing: Building foundations for data engineering
+
+---
+
+## Skills Summary
+**Data Processing (Operations)**
+- Typecasting: Converting raw input into numeric types
+- Arithmetic: Mathematical calculations including percentages
+- String Manipulation: Formatting output with f-strings and escape characters
+
+**Logic & Rules**
+- Comparison Operators: >, <, >=, <=, ==, !=
+- Boolean Logic: and, or, not for multi-condition checks
 
 ## Tech Stack
 - Python 3.13
@@ -36,4 +71,4 @@ A simple calculator that computes freelancer payments with tax deductions.
 Learning in public! Follow my progress as I build towards becoming a data engineer.
 
 ---
-*Last Updated: December 28, 2025*
+*Last Updated: December 29, 2025*
