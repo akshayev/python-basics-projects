@@ -47,9 +47,30 @@ A loan validation system that checks customer eligibility based on financial rul
 
 ---
 
+### Day 3: Simple Calculator
+**File:** `d3_calculator.py`
+
+A basic arithmetic calculator that performs operations based on user input.
+
+**Features:**
+- Takes operator choice (+, -, *, /)
+- Takes two numbers as input
+- Performs the selected arithmetic operation
+- Displays result or error for invalid operator
+
+**Skills Practiced:**
+- User input handling
+- Conditional statements (if/elif/else)
+- Multiple conditions and branching logic
+- Error handling with else clause
+- Operator selection based on user input
+
+---
+
 ## Learning Path
 - ✅ Day 1: Python basics - input/output, calculations, basic arithmetic
 - ✅ Day 2: Data Processing & Logic - typecasting, string formatting, conditional logic
+- ✅ Day 3: Control Flow - if/elif/else statements, conditional branching
 - 🔄 Ongoing: Building foundations for data engineering
 
 ---
@@ -71,4 +92,4 @@ A loan validation system that checks customer eligibility based on financial rul
 Learning in public! Follow my progress as I build towards becoming a data engineer.
 
 ---
-*Last Updated: December 29, 2025*
+*Last Updated: December 31, 2025*
